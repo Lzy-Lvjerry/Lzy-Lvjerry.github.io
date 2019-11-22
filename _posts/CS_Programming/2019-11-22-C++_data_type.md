@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Data type of C++"
-subtitle:   "arithmetic type and void"
+subtitle:   "C++基本内置类型"
 date:       2019-11-22 21:10:00
 author:     "lvjerry"
 header-img: "img/blog/CS_Programming/C++logo.jpg"
