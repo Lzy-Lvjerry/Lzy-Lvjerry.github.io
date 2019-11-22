@@ -135,4 +135,4 @@ page-mathjax: false
 #    }
 #]
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
