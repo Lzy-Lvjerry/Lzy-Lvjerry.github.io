@@ -10,6 +10,3 @@ tags:
     - llll
     - Meta
 ---
-
-> “Yeah It's on. ”
-> 
