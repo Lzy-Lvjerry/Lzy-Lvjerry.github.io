@@ -33,7 +33,8 @@ tags:
 |float|单精度浮点数|6位有效数字|
 |double|双精度浮点数|10位有效数字|
 |long double|扩展精度浮点数|10位有效数字|
-<br>布尔类型（bool）的取值是真（true）或者假（false）。
+---
+布尔类型（bool）的取值是真（true）或者假（false）。
 
 
 ### 变量
