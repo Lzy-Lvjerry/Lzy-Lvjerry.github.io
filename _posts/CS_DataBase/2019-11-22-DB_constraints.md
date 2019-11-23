@@ -24,6 +24,7 @@ tags:
          + cascade（级联）：首先检查该记录是否有对应的外键，如果有的话，则连同包含该外键的记录一起删除。
          + set null：若有对应外键，则将其外表中该外键的值设为null（不过这就需要该外键允许为null）
     + **On Update**：与On Delete一样也有四个参照完整性的违约处理。
+
 ```$xslt
 create table user_info(
   id CHAR(36) CONSTRAINT PK_userinfo PRIMARY KEY,
