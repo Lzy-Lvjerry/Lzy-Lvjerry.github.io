@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "数据库-事务的使用"
-subtitle:   "Yeah"
+subtitle:   "TRANSACTION"
 date:       2019-12-06 12:00:00
 author:     "lzy"
 header-img: "img/post-bg-2015.jpg"
@@ -33,9 +33,9 @@ tags:
 
 ### 事务的使用
 ```$xslt
-<font color=#0000FF >BEGIN TRANSACTION</font> // 事务的开始
+BEGIN TRANSACTION// 事务的开始
 SQL1 // 中间写该事务所包含的SQL语句
 SQL2
 ...
-<font color=#0000FF >COMMIT TRANSACTION</font> // 事务的提交
+COMMIT TRANSACTION// 事务的提交
 ```
